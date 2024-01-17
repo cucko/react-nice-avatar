@@ -2,7 +2,7 @@
   "name": "react-nice-avatar",
   "version": "1.5.0",
   "description": "react library for generating avatar",
-  "main": "dist/index.js",
+  "main2": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "scripts": {},
