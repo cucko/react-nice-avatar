@@ -12,11 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: author/action-publish@1.0.0
     - uses: actions/checkout@v3
     
     - name: Install dependencies
       run: npm i
 
     - name: Release
-      run: make release level=patch
+      run: make release
